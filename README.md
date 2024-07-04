@@ -3,7 +3,7 @@
 ## Project Setup
 
 1. Clone the repository
-2. Switch to the appropriate branch - example: `main`
+2. Switch to the appropriate branch - example: `dev`
 
 ### Install dependencies
 
