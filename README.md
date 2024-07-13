@@ -1,4 +1,5 @@
 # TheCatAPI-Tests
+This repository contains automated end-to-end (E2E) tests using Cypress for the Cat API website.
 
 ## Project Setup
 
